@@ -1,0 +1,4261 @@
+{
+    "sites":{
+        "1075": {
+            "techno": "2T2R",
+            "name": "ERB1075_Saidawa",
+            "latitude": 36.185555,
+            "longitude": 44.0225,
+            "sectors": {
+                "azimuth": {
+                    "30": {
+                        "1": {
+                            "name": "ERB1075_Saidawa_1",
+                            "pci": 40,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1075_Saidawa_4",
+                            "pci": 40,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1075_Saidawa_7",
+                            "pci": 10,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "130": {
+                        "2": {
+                            "name": "ERB1075_Saidawa_2",
+                            "pci": 39,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1075_Saidawa_5",
+                            "pci": 39,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1075_Saidawa_8",
+                            "pci": 369,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "240": {
+                        "3": {
+                            "name": "ERB1075_Saidawa_3",
+                            "pci": 41,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1075_Saidawa_6",
+                            "pci": 41,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1075_Saidawa_9",
+                            "pci": 11,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    65,
+                    35,
+                    65,
+                    45,
+                    65,
+                    85
+                ]
+            }
+        },
+        "1076": {
+            "techno": "SS",
+            "name": "ERB1076_Iskan",
+            "latitude": 36.178888,
+            "longitude": 44.020555,
+            "sectors": {
+                "azimuth": {
+                    "50": {
+                        "1": {
+                            "name": "ERB1076_Iskan_1",
+                            "pci": 155,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1076_Iskan_4",
+                            "pci": 155,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1076_Iskan_7",
+                            "pci": 96,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "175": {
+                        "102": {
+                            "name": "ERB1076_Iskan_2R",
+                            "pci": 74,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "105": {
+                            "name": "ERB1076_Iskan_5R",
+                            "pci": 74,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "2": {
+                            "name": "ERB1076_Iskan_2L",
+                            "pci": 154,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1076_Iskan_5L",
+                            "pci": 154,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1076_Iskan_8",
+                            "pci": 98,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "265": {
+                        "3": {
+                            "name": "ERB1076_Iskan_3",
+                            "pci": 153,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1076_Iskan_6",
+                            "pci": 153,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1076_Iskan_9",
+                            "pci": 97,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 432.5,
+                "values": [
+                    65,
+                    60,
+                    65,
+                    25,
+                    65,
+                    80
+                ]
+            }
+        },
+        "1081": {
+            "techno": "4T4R",
+            "name": "ERB1081_Dimdim",
+            "latitude": 36.192222,
+            "longitude": 44.018611,
+            "sectors": {
+                "azimuth": {
+                    "145": {
+                        "2": {
+                            "name": "ERB1081_Dimdim_2",
+                            "pci": 42,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1081_Dimdim_5",
+                            "pci": 42,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1081_Dimdim_8",
+                            "pci": 275,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "210": {
+                        "3": {
+                            "name": "ERB1081_Dimdim_3",
+                            "pci": 43,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1081_Dimdim_6",
+                            "pci": 43,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1081_Dimdim_9",
+                            "pci": 274,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "335": {
+                        "1": {
+                            "name": "ERB1081_Dimdim_1",
+                            "pci": 44,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1081_Dimdim_4",
+                            "pci": 44,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1081_Dimdim_7",
+                            "pci": 273,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 337.5,
+                "values": [
+                    65,
+                    0,
+                    65,
+                    60,
+                    65,
+                    105
+                ]
+            }
+        },
+        "1085": {
+            "techno": "2T2R",
+            "name": "ERB1085_MW_Building",
+            "latitude": 36.1925,
+            "longitude": 44.002777,
+            "sectors": {
+                "azimuth": {
+                    "50": {
+                        "1": {
+                            "name": "ERB1085_MW_Building_1",
+                            "pci": 317,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1085_MW_Building_4",
+                            "pci": 317,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1085_MW_Building_7",
+                            "pci": 449,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "140": {
+                        "2": {
+                            "name": "ERB1085_MW_Building_2",
+                            "pci": 316,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1085_MW_Building_5",
+                            "pci": 316,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1085_MW_Building_8",
+                            "pci": 447,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "230": {
+                        "3": {
+                            "name": "ERB1085_MW_Building_3",
+                            "pci": 315,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1085_MW_Building_6",
+                            "pci": 315,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1085_MW_Building_9",
+                            "pci": 448,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 432.5,
+                "values": [
+                    65,
+                    25,
+                    65,
+                    25,
+                    65,
+                    115
+                ]
+            }
+        },
+        "1086": {
+            "techno": "SS",
+            "name": "ERB1086_Tairawa2",
+            "latitude": 36.196944,
+            "longitude": 44.009722,
+            "sectors": {
+                "azimuth": {
+                    "55": {
+                        "2": {
+                            "name": "ERB1086_Tairawa2_2",
+                            "pci": 50,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1086_Tairawa2_5",
+                            "pci": 50,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1086_Tairawa2_8",
+                            "pci": 218,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "220": {
+                        "103": {
+                            "name": "ERB1086_Tairawa2_3R",
+                            "pci": 104,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "106": {
+                            "name": "ERB1086_Tairawa2_6R",
+                            "pci": 104,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "3": {
+                            "name": "ERB1086_Tairawa2_3L",
+                            "pci": 48,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1086_Tairawa2_6L",
+                            "pci": 48,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1086_Tairawa2_9",
+                            "pci": 217,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "320": {
+                        "1": {
+                            "name": "ERB1086_Tairawa2_1",
+                            "pci": 49,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1086_Tairawa2_4",
+                            "pci": 49,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1086_Tairawa2_7",
+                            "pci": 216,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 427.5,
+                "values": [
+                    65,
+                    100,
+                    65,
+                    35,
+                    65,
+                    30
+                ]
+            }
+        },
+        "1098": {
+            "techno": "2T2R",
+            "name": "ERB1098_Senger",
+            "latitude": 36.188055,
+            "longitude": 43.996666,
+            "sectors": {
+                "azimuth": {
+                    "45": {
+                        "1": {
+                            "name": "ERB1098_Senger_1",
+                            "pci": 88,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1098_Senger_4",
+                            "pci": 88,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1098_Senger_7",
+                            "pci": 153,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "170": {
+                        "2": {
+                            "name": "ERB1098_Senger_2",
+                            "pci": 87,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1098_Senger_5",
+                            "pci": 87,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1098_Senger_8",
+                            "pci": 155,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "320": {
+                        "3": {
+                            "name": "ERB1098_Senger_3",
+                            "pci": 89,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1098_Senger_6",
+                            "pci": 89,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1098_Senger_9",
+                            "pci": 154,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 437.5,
+                "values": [
+                    65,
+                    60,
+                    65,
+                    85,
+                    65,
+                    20
+                ]
+            }
+        },
+        "1100": {
+            "techno": "2T2R",
+            "name": "ERB1100_Sheraton",
+            "latitude": 36.181388,
+            "longitude": 44.014166,
+            "sectors": {
+                "azimuth": {
+                    "80": {
+                        "1": {
+                            "name": "ERB1100_Sheraton_1",
+                            "pci": 366,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1100_Sheraton_4",
+                            "pci": 366,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1100_Sheraton_7",
+                            "pci": 45,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "170": {
+                        "2": {
+                            "name": "ERB1100_Sheraton_2",
+                            "pci": 368,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1100_Sheraton_5",
+                            "pci": 368,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1100_Sheraton_8",
+                            "pci": 47,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "270": {
+                        "3": {
+                            "name": "ERB1100_Sheraton_3",
+                            "pci": 367,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1100_Sheraton_6",
+                            "pci": 367,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1100_Sheraton_9",
+                            "pci": 46,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 402.5,
+                "values": [
+                    65,
+                    25,
+                    65,
+                    35,
+                    65,
+                    105
+                ]
+            }
+        },
+        "1102": {
+            "techno": "2T2R",
+            "name": "ERB1102_Zaniyri",
+            "latitude": 36.178888,
+            "longitude": 44.005555,
+            "sectors": {
+                "azimuth": {
+                    "120": {
+                        "2": {
+                            "name": "ERB1102_Zaniyri_2",
+                            "pci": 238,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1102_Zaniyri_5",
+                            "pci": 238,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1102_Zaniyri_8",
+                            "pci": 42,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "200": {
+                        "3": {
+                            "name": "ERB1102_Zaniyri_3",
+                            "pci": 237,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1102_Zaniyri_6",
+                            "pci": 237,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1102_Zaniyri_9",
+                            "pci": 44,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "340": {
+                        "1": {
+                            "name": "ERB1102_Zaniyri_1",
+                            "pci": 239,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1102_Zaniyri_4",
+                            "pci": 239,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1102_Zaniyri_7",
+                            "pci": 43,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 362.5,
+                "values": [
+                    65,
+                    15,
+                    65,
+                    75,
+                    65,
+                    75
+                ]
+            }
+        },
+        "1103": {
+            "techno": "4T4R",
+            "name": "ERB1103_Sarbesti",
+            "latitude": 36.171111,
+            "longitude": 44.003055,
+            "sectors": {
+                "azimuth": {
+                    "20": {
+                        "1": {
+                            "name": "ERB1103_Sarbesti_1",
+                            "pci": 76,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1103_Sarbesti_4",
+                            "pci": 76,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1103_Sarbesti_7",
+                            "pci": 483,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "100": {
+                        "2": {
+                            "name": "ERB1103_Sarbesti_2",
+                            "pci": 77,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1103_Sarbesti_5",
+                            "pci": 77,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1103_Sarbesti_8",
+                            "pci": 484,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "230": {
+                        "3": {
+                            "name": "ERB1103_Sarbesti_3",
+                            "pci": 75,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1103_Sarbesti_6",
+                            "pci": 75,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1103_Sarbesti_9",
+                            "pci": 485,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 462.5,
+                "values": [
+                    65,
+                    15,
+                    65,
+                    65,
+                    65,
+                    85
+                ]
+            }
+        },
+        "1150": {
+            "techno": "4T4R",
+            "name": "ERB1150_Mnara_2",
+            "latitude": 36.19607,
+            "longitude": 43.9984,
+            "sectors": {
+                "azimuth": {
+                    "85": {
+                        "2": {
+                            "name": "ERB1150_Mnara_2_2",
+                            "pci": 319,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1150_Mnara_2_5",
+                            "pci": 319,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1150_Mnara_2_8",
+                            "pci": 14,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "200": {
+                        "3": {
+                            "name": "ERB1150_Mnara_2_3",
+                            "pci": 320,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1150_Mnara_2_6",
+                            "pci": 320,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1150_Mnara_2_9",
+                            "pci": 12,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "340": {
+                        "1": {
+                            "name": "ERB1150_Mnara_2_1",
+                            "pci": 318,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1150_Mnara_2_4",
+                            "pci": 318,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1150_Mnara_2_7",
+                            "pci": 13,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 397.5,
+                "values": [
+                    65,
+                    50,
+                    65,
+                    75,
+                    65,
+                    40
+                ]
+            }
+        },
+        "1165": {
+            "techno": "2T2R",
+            "name": "ERB1165_Azadi1",
+            "latitude": 36.1775,
+            "longitude": 44.011944,
+            "sectors": {
+                "azimuth": {
+                    "30": {
+                        "1": {
+                            "name": "ERB1165_Azadi1_1",
+                            "pci": 420,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1165_Azadi1_4",
+                            "pci": 420,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1165_Azadi1_7",
+                            "pci": 29,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "125": {
+                        "2": {
+                            "name": "ERB1165_Azadi1_2",
+                            "pci": 421,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1165_Azadi1_5",
+                            "pci": 421,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1165_Azadi1_8",
+                            "pci": 27,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "250": {
+                        "3": {
+                            "name": "ERB1165_Azadi1_3",
+                            "pci": 422,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1165_Azadi1_6",
+                            "pci": 422,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1165_Azadi1_9",
+                            "pci": 28,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    65,
+                    30,
+                    65,
+                    60,
+                    65,
+                    75
+                ]
+            }
+        },
+        "1425": {
+            "techno": "SS",
+            "name": "ERB1425_Tairawa4",
+            "latitude": 36.200833,
+            "longitude": 44.01,
+            "sectors": {
+                "azimuth": {
+                    "10": {
+                        "1": {
+                            "name": "ERB1425_Tairawa4_1L",
+                            "pci": 128,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "101": {
+                            "name": "ERB1425_Tairawa4_1R",
+                            "pci": 12,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "104": {
+                            "name": "ERB1425_Tairawa4_4R",
+                            "pci": 12,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1425_Tairawa4_4L",
+                            "pci": 128,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1425_Tairawa4_7",
+                            "pci": 206,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "100": {
+                        "102": {
+                            "name": "ERB1425_Tairawa4_2R",
+                            "pci": 127,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "105": {
+                            "name": "ERB1425_Tairawa4_5R",
+                            "pci": 127,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "2": {
+                            "name": "ERB1425_Tairawa4_2L",
+                            "pci": 182,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1425_Tairawa4_5L",
+                            "pci": 182,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1425_Tairawa4_8",
+                            "pci": 204,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "195": {
+                        "103": {
+                            "name": "ERB1425_Tairawa4_3R",
+                            "pci": 13,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "106": {
+                            "name": "ERB1425_Tairawa4_6R",
+                            "pci": 13,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "3": {
+                            "name": "ERB1425_Tairawa4_3L",
+                            "pci": 126,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1425_Tairawa4_6L",
+                            "pci": 126,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1425_Tairawa4_9",
+                            "pci": 205,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 472.5,
+                "values": [
+                    65,
+                    25,
+                    65,
+                    30,
+                    65,
+                    110
+                ]
+            }
+        },
+        "1432": {
+            "techno": "SS",
+            "name": "ERB1432_Garaki_Nishtiman2",
+            "latitude": 36.186944,
+            "longitude": 43.993333,
+            "sectors": {
+                "azimuth": {
+                    "240": {
+                        "1": {
+                            "name": "ERB1432_Garaki_Nishtiman2_1L",
+                            "pci": 54,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "101": {
+                            "name": "ERB1432_Garaki_Nishtiman2_1R",
+                            "pci": 292,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "104": {
+                            "name": "ERB1432_Garaki_Nishtiman2_4R",
+                            "pci": 292,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1432_Garaki_Nishtiman2_4L",
+                            "pci": 54,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1432_Garaki_Nishtiman2_7",
+                            "pci": 59,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "350": {
+                        "102": {
+                            "name": "ERB1432_Garaki_Nishtiman2_2R",
+                            "pci": 55,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "105": {
+                            "name": "ERB1432_Garaki_Nishtiman2_5R",
+                            "pci": 55,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "2": {
+                            "name": "ERB1432_Garaki_Nishtiman2_2L",
+                            "pci": 293,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1432_Garaki_Nishtiman2_5L",
+                            "pci": 293,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1432_Garaki_Nishtiman2_8",
+                            "pci": 57,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 242.5,
+                "values": [
+                    65,
+                    45,
+                    65,
+                    185
+                ]
+            }
+        },
+        "1479": {
+            "techno": "4T4R",
+            "name": "ERB1479_Alban_street4",
+            "latitude": 36.174166,
+            "longitude": 44.001111,
+            "sectors": {
+                "azimuth": {
+                    "0": {
+                        "1": {
+                            "name": "ERB1479_Alban_street4_1",
+                            "pci": 349,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1479_Alban_street4_4",
+                            "pci": 349,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1479_Alban_street4_7",
+                            "pci": 48,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "150": {
+                        "2": {
+                            "name": "ERB1479_Alban_street4_2",
+                            "pci": 350,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1479_Alban_street4_5",
+                            "pci": 350,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1479_Alban_street4_8",
+                            "pci": 49,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "250": {
+                        "3": {
+                            "name": "ERB1479_Alban_street4_3",
+                            "pci": 348,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1479_Alban_street4_6",
+                            "pci": 348,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1479_Alban_street4_9",
+                            "pci": 50,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 482.5,
+                "values": [
+                    65,
+                    85,
+                    65,
+                    35,
+                    65,
+                    45
+                ]
+            }
+        },
+        "1565": {
+            "techno": "4T4R",
+            "name": "ERB1565_Saidawa2",
+            "latitude": 36.181944,
+            "longitude": 44.022777,
+            "sectors": {
+                "azimuth": {
+                    "130": {
+                        "1": {
+                            "name": "ERB1565_Saidawa2_1",
+                            "pci": 207,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1565_Saidawa2_4",
+                            "pci": 207,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1565_Saidawa2_7",
+                            "pci": 389,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "270": {
+                        "2": {
+                            "name": "ERB1565_Saidawa2_2",
+                            "pci": 208,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1565_Saidawa2_5",
+                            "pci": 208,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1565_Saidawa2_8",
+                            "pci": 388,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "355": {
+                        "3": {
+                            "name": "ERB1565_Saidawa2_3",
+                            "pci": 209,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1565_Saidawa2_6",
+                            "pci": 209,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1565_Saidawa2_9",
+                            "pci": 387,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 352.5,
+                "values": [
+                    65,
+                    75,
+                    65,
+                    20,
+                    65,
+                    70
+                ]
+            }
+        },
+        "1566": {
+            "techno": "4T4R",
+            "name": "ERB1566_Saidawa3",
+            "latitude": 36.189444,
+            "longitude": 44.024444,
+            "sectors": {
+                "azimuth": {
+                    "10": {
+                        "1": {
+                            "name": "ERB1566_Saidawa3_1",
+                            "pci": 65,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1566_Saidawa3_4",
+                            "pci": 65,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1566_Saidawa3_7",
+                            "pci": 441,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "140": {
+                        "2": {
+                            "name": "ERB1566_Saidawa3_2",
+                            "pci": 63,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1566_Saidawa3_5",
+                            "pci": 63,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1566_Saidawa3_8",
+                            "pci": 443,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "280": {
+                        "3": {
+                            "name": "ERB1566_Saidawa3_3",
+                            "pci": 64,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1566_Saidawa3_6",
+                            "pci": 64,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1566_Saidawa3_9",
+                            "pci": 442,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 472.5,
+                "values": [
+                    65,
+                    65,
+                    65,
+                    75,
+                    65,
+                    25
+                ]
+            }
+        },
+        "1572": {
+            "techno": "2T2R",
+            "name": "ERB1572_Qalat2",
+            "latitude": 36.190277,
+            "longitude": 44.009444,
+            "sectors": {
+                "azimuth": {
+                    "210": {
+                        "1": {
+                            "name": "ERB1572_Qalat2_1",
+                            "pci": 387,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1572_Qalat2_4",
+                            "pci": 387,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1572_Qalat2_7",
+                            "pci": 365,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "320": {
+                        "2": {
+                            "name": "ERB1572_Qalat2_2",
+                            "pci": 389,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1572_Qalat2_5",
+                            "pci": 389,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1572_Qalat2_8",
+                            "pci": 363,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 272.5,
+                "values": [
+                    65,
+                    45,
+                    65,
+                    185
+                ]
+            }
+        },
+        "1583": {
+            "techno": "4T4R",
+            "name": "ERB1583_Tairawa6",
+            "latitude": 36.195277,
+            "longitude": 44.004166,
+            "sectors": {
+                "azimuth": {
+                    "30": {
+                        "1": {
+                            "name": "ERB1583_Tairawa6_1",
+                            "pci": 329,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1583_Tairawa6_4",
+                            "pci": 329,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1583_Tairawa6_7",
+                            "pci": 314,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "150": {
+                        "2": {
+                            "name": "ERB1583_Tairawa6_2",
+                            "pci": 328,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1583_Tairawa6_5",
+                            "pci": 328,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1583_Tairawa6_8",
+                            "pci": 313,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "280": {
+                        "3": {
+                            "name": "ERB1583_Tairawa6_3",
+                            "pci": 327,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1583_Tairawa6_6",
+                            "pci": 327,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1583_Tairawa6_9",
+                            "pci": 312,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    65,
+                    55,
+                    65,
+                    65,
+                    65,
+                    45
+                ]
+            }
+        },
+        "1584": {
+            "techno": "4T4R",
+            "name": "ERB1584_Tairawa5",
+            "latitude": 36.196111,
+            "longitude": 44.017777,
+            "sectors": {
+                "azimuth": {
+                    "95": {
+                        "1": {
+                            "name": "ERB1584_Tairawa5_1",
+                            "pci": 68,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1584_Tairawa5_4",
+                            "pci": 68,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1584_Tairawa5_7",
+                            "pci": 175,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "225": {
+                        "2": {
+                            "name": "ERB1584_Tairawa5_2",
+                            "pci": 67,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1584_Tairawa5_5",
+                            "pci": 67,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1584_Tairawa5_8",
+                            "pci": 176,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "350": {
+                        "3": {
+                            "name": "ERB1584_Tairawa5_3",
+                            "pci": 66,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1584_Tairawa5_6",
+                            "pci": 66,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1584_Tairawa5_9",
+                            "pci": 174,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 387.5,
+                "values": [
+                    65,
+                    65,
+                    65,
+                    60,
+                    65,
+                    40
+                ]
+            }
+        },
+        "1597": {
+            "techno": "4T4R",
+            "name": "ERB1597_Tairawa7",
+            "latitude": 36.197777,
+            "longitude": 44.013611,
+            "sectors": {
+                "azimuth": {
+                    "80": {
+                        "1": {
+                            "name": "ERB1597_Tairawa7_1",
+                            "pci": 10,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1597_Tairawa7_4",
+                            "pci": 10,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1597_Tairawa7_7",
+                            "pci": 377,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "155": {
+                        "2": {
+                            "name": "ERB1597_Tairawa7_2",
+                            "pci": 11,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1597_Tairawa7_5",
+                            "pci": 11,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1597_Tairawa7_8",
+                            "pci": 376,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "310": {
+                        "3": {
+                            "name": "ERB1597_Tairawa7_3",
+                            "pci": 9,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1597_Tairawa7_6",
+                            "pci": 9,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1597_Tairawa7_9",
+                            "pci": 375,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 402.5,
+                "values": [
+                    65,
+                    10,
+                    65,
+                    90,
+                    65,
+                    65
+                ]
+            }
+        },
+        "1635": {
+            "techno": "4T4R",
+            "name": "ERB1635_Franso_Hariri_Stadium",
+            "latitude": 36.171388,
+            "longitude": 44.012777,
+            "sectors": {
+                "azimuth": {
+                    "170": {
+                        "1": {
+                            "name": "ERB1635_Franso_Hariri_Stadium_1",
+                            "pci": 122,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1635_Franso_Hariri_Stadium_4",
+                            "pci": 122,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1635_Franso_Hariri_Stadium_7",
+                            "pci": 87,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "300": {
+                        "2": {
+                            "name": "ERB1635_Franso_Hariri_Stadium_2",
+                            "pci": 121,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1635_Franso_Hariri_Stadium_5",
+                            "pci": 121,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1635_Franso_Hariri_Stadium_8",
+                            "pci": 89,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 312.5,
+                "values": [
+                    65,
+                    65,
+                    65,
+                    165
+                ]
+            }
+        },
+        "1636": {
+            "techno": "2T2R",
+            "name": "ERB1636_Ronaky3",
+            "latitude": 36.171388,
+            "longitude": 44.016666,
+            "sectors": {
+                "azimuth": {
+                    "185": {
+                        "2": {
+                            "name": "ERB1636_Ronaky3_2",
+                            "pci": 241,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1636_Ronaky3_5",
+                            "pci": 241,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "8": {
+                            "name": "ERB1636_Ronaky3_8",
+                            "pci": 430,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "270": {
+                        "3": {
+                            "name": "ERB1636_Ronaky3_3",
+                            "pci": 242,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "6": {
+                            "name": "ERB1636_Ronaky3_6",
+                            "pci": 242,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "9": {
+                            "name": "ERB1636_Ronaky3_9",
+                            "pci": 429,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "335": {
+                        "1": {
+                            "name": "ERB1636_Ronaky3_1",
+                            "pci": 240,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "4": {
+                            "name": "ERB1636_Ronaky3_4",
+                            "pci": 240,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "7": {
+                            "name": "ERB1636_Ronaky3_7",
+                            "pci": 431,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 297.5,
+                "values": [
+                    65,
+                    20,
+                    65,
+                    0,
+                    65,
+                    145
+                ]
+            }
+        },
+        "8018": {
+            "techno": "2T2R",
+            "name": "Qaisary_MCO_1",
+            "latitude": 36.1888859,
+            "longitude": 44.008306,
+            "sectors": {
+                "azimuth": {
+                    "100": {
+                        " 0": {
+                            "name": "Qaisary_1_MCO_0",
+                            "pci": 228,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 382.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        },
+        "8019": {
+            "techno": "2T2R",
+            "name": "Qaisary_MCO_2",
+            "latitude": 36.188852,
+            "longitude": 44.008593,
+            "sectors": {
+                "azimuth": {
+                    "120": {
+                        " 0": {
+                            "name": "Qaisary_2_MCO_0",
+                            "pci": 73,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 362.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        },
+        "8020": {
+            "techno": "2T2R",
+            "name": "Qaisary_MCO_3",
+            "latitude": 36.188517,
+            "longitude": 44.009714,
+            "sectors": {
+                "azimuth": {
+                    "120": {
+                        " 0": {
+                            "name": "Qaisary_3_MCO_0",
+                            "pci": 464,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 362.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        },
+        "8021": {
+            "techno": "2T2R",
+            "name": "Qaisary_MCO_4",
+            "latitude": 36.188684,
+            "longitude": 44.008925,
+            "sectors": {
+                "azimuth": {
+                    "160": {
+                        " 0": {
+                            "name": "Qaisary_4_MCO_0",
+                            "pci": 229,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 322.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        },
+        "8032": {
+            "techno": "2T2R",
+            "name": "ERB8032_Aswaq_Erbil_MCO",
+            "latitude": 36.190503,
+            "longitude": 44.006122,
+            "sectors": {
+                "azimuth": {
+                    "60": {
+                        " 0": {
+                            "name": "ERB8032_Aswaq_Erbil_MCO_0",
+                            "pci": 462,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 422.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        },
+        "8035": {
+            "techno": "2T2R",
+            "name": "ERB8035_MCO_Nishtiman_Market",
+            "latitude": 36.187349,
+            "longitude": 44.012337,
+            "sectors": {
+                "azimuth": [
+                    {
+                        " 0": {
+                            "name": "ERB8035_MCO_Nishtiman_Market_0",
+                            "pci": 72,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                ],
+                "angle": 482.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        },
+        "8201": {
+            "techno": "2T2R",
+            "name": "ERB8201_Tablo_Mall_MCO2",
+            "latitude": 36.171462,
+            "longitude": 44.0137,
+            "sectors": {
+                "azimuth": [
+                    {
+                        " 0": {
+                            "name": "ERB8201_Tablo_Mall_MCO2_0",
+                            "pci": 429,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                ],
+                "angle": 482.5,
+                "values": [
+                    65,
+                    295
+                ]
+            }
+        }
+    },
+    "MM": {
+        "1077": {
+            "techno": "32T32R",
+            "name": "ERB1077_Komary",
+            "latitude": 36.173888,
+            "longitude": 44.021388,
+            "sectorsB20": {
+                "azimuth": {
+                    "30": {
+                        "7": {
+                            "name": "ERB1077_Komary_7",
+                            "pci": 438,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "160": {
+                        "8": {
+                            "name": "ERB1077_Komary_8",
+                            "pci": 439,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "280": {
+                        "9": {
+                            "name": "ERB1077_Komary_9",
+                            "pci": 440,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    65,
+                    65,
+                    65,
+                    55,
+                    65,
+                    45
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "30": {
+                        "51": {
+                            "name": "ERB1077_Komary_51",
+                            "pci": 448,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1077_Komary_54",
+                            "pci": 448,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1077_Komary_61",
+                            "pci": 449,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1077_Komary_64",
+                            "pci": 449,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1077_Komary_71",
+                            "pci": 168,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1077_Komary_74",
+                            "pci": 168,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1077_Komary_81",
+                            "pci": 136,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1077_Komary_84",
+                            "pci": 136,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "160": {
+                        "52": {
+                            "name": "ERB1077_Komary_52",
+                            "pci": 170,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1077_Komary_55",
+                            "pci": 170,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1077_Komary_62",
+                            "pci": 169,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1077_Komary_65",
+                            "pci": 169,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1077_Komary_72",
+                            "pci": 135,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1077_Komary_75",
+                            "pci": 135,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1077_Komary_82",
+                            "pci": 278,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1077_Komary_85",
+                            "pci": 278,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "280": {
+                        "53": {
+                            "name": "ERB1077_Komary_53",
+                            "pci": 276,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1077_Komary_56",
+                            "pci": 276,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1077_Komary_63",
+                            "pci": 277,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1077_Komary_66",
+                            "pci": 277,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1077_Komary_73",
+                            "pci": 137,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1077_Komary_76",
+                            "pci": 137,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1077_Komary_83",
+                            "pci": 447,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1077_Komary_86",
+                            "pci": 447,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    65,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    55,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    45
+                ]
+            }
+        },
+        "1079": {
+            "techno": "32T32R",
+            "name": "ERB1079_Shahedan_Qtr",
+            "latitude": 36.195833,
+            "longitude": 44.023888,
+            "sectorsB20": {
+                "azimuth": {
+                    "150": {
+                        "8": {
+                            "name": "ERB1079_Shahedan_Qtr_8",
+                            "pci": 283,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "240": {
+                        "9": {
+                            "name": "ERB1079_Shahedan_Qtr_9",
+                            "pci": 284,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "350": {
+                        "7": {
+                            "name": "ERB1079_Shahedan_Qtr_7",
+                            "pci": 282,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 332.5,
+                "values": [
+                    65,
+                    25,
+                    65,
+                    45,
+                    65,
+                    95
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "0": {
+                        "51": {
+                            "name": "ERB1079_Shahedan_Qtr_51",
+                            "pci": 75,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1079_Shahedan_Qtr_54",
+                            "pci": 75,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1079_Shahedan_Qtr_61",
+                            "pci": 76,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1079_Shahedan_Qtr_64",
+                            "pci": 76,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1079_Shahedan_Qtr_71",
+                            "pci": 152,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1079_Shahedan_Qtr_74",
+                            "pci": 152,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1079_Shahedan_Qtr_81",
+                            "pci": 489,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1079_Shahedan_Qtr_84",
+                            "pci": 489,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "140": {
+                        "52": {
+                            "name": "ERB1079_Shahedan_Qtr_52",
+                            "pci": 490,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1079_Shahedan_Qtr_55",
+                            "pci": 490,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1079_Shahedan_Qtr_62",
+                            "pci": 491,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1079_Shahedan_Qtr_65",
+                            "pci": 491,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1079_Shahedan_Qtr_72",
+                            "pci": 150,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1079_Shahedan_Qtr_75",
+                            "pci": 150,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1079_Shahedan_Qtr_82",
+                            "pci": 25,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1079_Shahedan_Qtr_85",
+                            "pci": 25,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "240": {
+                        "53": {
+                            "name": "ERB1079_Shahedan_Qtr_53",
+                            "pci": 26,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1079_Shahedan_Qtr_56",
+                            "pci": 26,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1079_Shahedan_Qtr_63",
+                            "pci": 24,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1079_Shahedan_Qtr_66",
+                            "pci": 24,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1079_Shahedan_Qtr_73",
+                            "pci": 151,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1079_Shahedan_Qtr_76",
+                            "pci": 151,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1079_Shahedan_Qtr_83",
+                            "pci": 77,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1079_Shahedan_Qtr_86",
+                            "pci": 77,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 482.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    75,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    35,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    55
+                ]
+            }
+        },
+        "1082": {
+            "techno": "32T32R",
+            "name": "ERB1082_Shekhalla",
+            "latitude": 36.187674444444,
+            "longitude": 44.015264444444,
+            "sectorsB20": {
+                "azimuth": {
+                    "90": {
+                        "8": {
+                            "name": "ERB1082_Shekhalla_8",
+                            "pci": 306,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "215": {
+                        "9": {
+                            "name": "ERB1082_Shekhalla_9",
+                            "pci": 487,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "330": {
+                        "7": {
+                            "name": "ERB1082_Shekhalla_7",
+                            "pci": 338,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 392.5,
+                "values": [
+                    65,
+                    60,
+                    65,
+                    50,
+                    65,
+                    55
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "90": {
+                        "52": {
+                            "name": "ERB1082_Shekhalla_52",
+                            "pci": 18,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1082_Shekhalla_55",
+                            "pci": 18,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1082_Shekhalla_62",
+                            "pci": 19,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1082_Shekhalla_65",
+                            "pci": 19,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1082_Shekhalla_72",
+                            "pci": 62,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1082_Shekhalla_75",
+                            "pci": 62,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1082_Shekhalla_82",
+                            "pci": 426,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1082_Shekhalla_85",
+                            "pci": 426,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "215": {
+                        "53": {
+                            "name": "ERB1082_Shekhalla_53",
+                            "pci": 428,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1082_Shekhalla_56",
+                            "pci": 428,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1082_Shekhalla_63",
+                            "pci": 427,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1082_Shekhalla_66",
+                            "pci": 427,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1082_Shekhalla_73",
+                            "pci": 60,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1082_Shekhalla_76",
+                            "pci": 60,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1082_Shekhalla_83",
+                            "pci": 383,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1082_Shekhalla_86",
+                            "pci": 383,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "330": {
+                        "51": {
+                            "name": "ERB1082_Shekhalla_51",
+                            "pci": 382,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1082_Shekhalla_54",
+                            "pci": 382,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1082_Shekhalla_61",
+                            "pci": 381,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1082_Shekhalla_64",
+                            "pci": 381,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1082_Shekhalla_71",
+                            "pci": 20,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1082_Shekhalla_74",
+                            "pci": 20,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1082_Shekhalla_81",
+                            "pci": 61,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1082_Shekhalla_84",
+                            "pci": 61,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 392.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    60,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    50,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    55
+                ]
+            }
+        },
+        "1083": {
+            "techno": "32T32R",
+            "name": "ERB1083_Neshteman_Market",
+            "latitude": 36.187288333333,
+            "longitude": 44.011817222222,
+            "sectorsB20": {
+                "azimuth": {
+                    "10": {
+                        "7": {
+                            "name": "ERB1083_Neshteman_Market_7",
+                            "pci": 51,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "200": {
+                        "8": {
+                            "name": "ERB1083_Neshteman_Market_8",
+                            "pci": 53,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "290": {
+                        "9": {
+                            "name": "ERB1083_Neshteman_Market_9",
+                            "pci": 52,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 472.5,
+                "values": [
+                    65,
+                    125,
+                    65,
+                    25,
+                    65,
+                    15
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "10": {
+                        "51": {
+                            "name": "ERB1083_Neshteman_Market_51",
+                            "pci": 468,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1083_Neshteman_Market_54",
+                            "pci": 468,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1083_Neshteman_Market_61",
+                            "pci": 469,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1083_Neshteman_Market_64",
+                            "pci": 469,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1083_Neshteman_Market_71",
+                            "pci": 407,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1083_Neshteman_Market_74",
+                            "pci": 407,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1083_Neshteman_Market_81",
+                            "pci": 114,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1083_Neshteman_Market_84",
+                            "pci": 114,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "200": {
+                        "52": {
+                            "name": "ERB1083_Neshteman_Market_52",
+                            "pci": 116,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1083_Neshteman_Market_55",
+                            "pci": 116,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1083_Neshteman_Market_62",
+                            "pci": 115,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1083_Neshteman_Market_65",
+                            "pci": 115,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1083_Neshteman_Market_72",
+                            "pci": 405,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1083_Neshteman_Market_75",
+                            "pci": 405,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1083_Neshteman_Market_82",
+                            "pci": 305,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1083_Neshteman_Market_85",
+                            "pci": 305,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "290": {
+                        "53": {
+                            "name": "ERB1083_Neshteman_Market_53",
+                            "pci": 304,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1083_Neshteman_Market_56",
+                            "pci": 304,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1083_Neshteman_Market_63",
+                            "pci": 303,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1083_Neshteman_Market_66",
+                            "pci": 303,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1083_Neshteman_Market_73",
+                            "pci": 470,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1083_Neshteman_Market_76",
+                            "pci": 470,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1083_Neshteman_Market_83",
+                            "pci": 406,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1083_Neshteman_Market_86",
+                            "pci": 406,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 472.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    125,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    15
+                ]
+            }
+        },
+        "1099": {
+            "techno": "32T32R",
+            "name": "ERB1099_Shanadar_Park",
+            "latitude": 36.184166,
+            "longitude": 44.003611,
+            "sectorsB20": {
+                "azimuth": {
+                    "10": {
+                        "7": {
+                            "name": "ERB1099_Shanadar_Park_7",
+                            "pci": 416,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "90": {
+                        "8": {
+                            "name": "ERB1099_Shanadar_Park_8",
+                            "pci": 414,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "250": {
+                        "9": {
+                            "name": "ERB1099_Shanadar_Park_9",
+                            "pci": 58,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 472.5,
+                "values": [
+                    65,
+                    15,
+                    65,
+                    95,
+                    65,
+                    55
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "10": {
+                        "51": {
+                            "name": "ERB1099_Shanadar_Park_51",
+                            "pci": 33,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1099_Shanadar_Park_54",
+                            "pci": 33,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1099_Shanadar_Park_61",
+                            "pci": 416,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1099_Shanadar_Park_64",
+                            "pci": 416,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1099_Shanadar_Park_71",
+                            "pci": 34,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1099_Shanadar_Park_74",
+                            "pci": 34,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1099_Shanadar_Park_81",
+                            "pci": 312,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1099_Shanadar_Park_84",
+                            "pci": 312,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "110": {
+                        "52": {
+                            "name": "ERB1099_Shanadar_Park_52",
+                            "pci": 314,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1099_Shanadar_Park_55",
+                            "pci": 314,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1099_Shanadar_Park_62",
+                            "pci": 313,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1099_Shanadar_Park_65",
+                            "pci": 313,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1099_Shanadar_Park_72",
+                            "pci": 414,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1099_Shanadar_Park_75",
+                            "pci": 414,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1099_Shanadar_Park_82",
+                            "pci": 200,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1099_Shanadar_Park_85",
+                            "pci": 200,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "270": {
+                        "53": {
+                            "name": "ERB1099_Shanadar_Park_53",
+                            "pci": 199,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1099_Shanadar_Park_56",
+                            "pci": 199,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1099_Shanadar_Park_63",
+                            "pci": 198,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1099_Shanadar_Park_66",
+                            "pci": 198,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1099_Shanadar_Park_73",
+                            "pci": 35,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1099_Shanadar_Park_76",
+                            "pci": 35,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1099_Shanadar_Park_83",
+                            "pci": 415,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1099_Shanadar_Park_86",
+                            "pci": 415,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 472.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    35,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    95,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    35
+                ]
+            }
+        },
+        "1106": {
+            "techno": "32T32R",
+            "name": "ERB1106_Alban_street",
+            "latitude": 36.17366,
+            "longitude": 43.995947222222,
+            "sectorsB20": {
+                "azimuth": {
+                    "60": {
+                        "7": {
+                            "name": "ERB1106_Alban_street_7",
+                            "pci": 111,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "180": {
+                        "8": {
+                            "name": "ERB1106_Alban_street_8",
+                            "pci": 112,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "310": {
+                        "9": {
+                            "name": "ERB1106_Alban_street_9",
+                            "pci": 113,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 422.5,
+                "values": [
+                    65,
+                    55,
+                    65,
+                    65,
+                    65,
+                    45
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "60": {
+                        "51": {
+                            "name": "ERB1106_Alban_street_51",
+                            "pci": 0,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1106_Alban_street_54",
+                            "pci": 0,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1106_Alban_street_61",
+                            "pci": 2,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1106_Alban_street_64",
+                            "pci": 2,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1106_Alban_street_71",
+                            "pci": 217,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1106_Alban_street_74",
+                            "pci": 217,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1106_Alban_street_81",
+                            "pci": 69,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1106_Alban_street_84",
+                            "pci": 69,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "180": {
+                        "52": {
+                            "name": "ERB1106_Alban_street_52",
+                            "pci": 71,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1106_Alban_street_55",
+                            "pci": 71,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1106_Alban_street_62",
+                            "pci": 70,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1106_Alban_street_65",
+                            "pci": 70,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1106_Alban_street_72",
+                            "pci": 453,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1106_Alban_street_75",
+                            "pci": 453,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1106_Alban_street_82",
+                            "pci": 218,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1106_Alban_street_85",
+                            "pci": 218,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "310": {
+                        "53": {
+                            "name": "ERB1106_Alban_street_53",
+                            "pci": 454,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1106_Alban_street_56",
+                            "pci": 454,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1106_Alban_street_63",
+                            "pci": 455,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1106_Alban_street_66",
+                            "pci": 455,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1106_Alban_street_73",
+                            "pci": 216,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1106_Alban_street_76",
+                            "pci": 216,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1106_Alban_street_83",
+                            "pci": 1,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1106_Alban_street_86",
+                            "pci": 1,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 422.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    55,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    65,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    45
+                ]
+            }
+        },
+        "1149": {
+            "techno": "32T32R",
+            "name": "ERB1149_Mnara",
+            "latitude": 36.1975,
+            "longitude": 44.0025,
+            "sectorsB20": {
+                "azimuth": {
+                    "70": {
+                        "7": {
+                            "name": "ERB1149_Mnara_7",
+                            "pci": 191,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "180": {
+                        "8": {
+                            "name": "ERB1149_Mnara_8",
+                            "pci": 190,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "330": {
+                        "9": {
+                            "name": "ERB1149_Mnara_9",
+                            "pci": 189,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 412.5,
+                "values": [
+                    65,
+                    45,
+                    65,
+                    85,
+                    65,
+                    35
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "70": {
+                        "51": {
+                            "name": "ERB1149_Mnara_51",
+                            "pci": 210,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1149_Mnara_54",
+                            "pci": 210,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1149_Mnara_61",
+                            "pci": 212,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1149_Mnara_64",
+                            "pci": 212,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1149_Mnara_71",
+                            "pci": 160,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1149_Mnara_74",
+                            "pci": 160,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1149_Mnara_81",
+                            "pci": 444,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1149_Mnara_84",
+                            "pci": 444,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "180": {
+                        "52": {
+                            "name": "ERB1149_Mnara_52",
+                            "pci": 445,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1149_Mnara_55",
+                            "pci": 445,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1149_Mnara_62",
+                            "pci": 446,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1149_Mnara_65",
+                            "pci": 446,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1149_Mnara_72",
+                            "pci": 159,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1149_Mnara_75",
+                            "pci": 159,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1149_Mnara_82",
+                            "pci": 283,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1149_Mnara_85",
+                            "pci": 283,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "330": {
+                        "53": {
+                            "name": "ERB1149_Mnara_53",
+                            "pci": 284,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1149_Mnara_56",
+                            "pci": 284,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1149_Mnara_63",
+                            "pci": 282,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1149_Mnara_66",
+                            "pci": 282,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1149_Mnara_73",
+                            "pci": 211,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1149_Mnara_76",
+                            "pci": 211,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1149_Mnara_83",
+                            "pci": 161,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1149_Mnara_86",
+                            "pci": 161,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 412.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    45,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    85,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    35
+                ]
+            }
+        },
+        "1198": {
+            "techno": "32T32R",
+            "name": "ERB1198_Iskan_st",
+            "latitude": 36.179444,
+            "longitude": 44.016111,
+            "sectorsB20": {
+                "azimuth": {
+                    "140": {
+                        "7": {
+                            "name": "ERB1198_Iskan_st_7",
+                            "pci": 386,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "280": {
+                        "8": {
+                            "name": "ERB1198_Iskan_st_8",
+                            "pci": 384,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 342.5,
+                "values": [
+                    65,
+                    75,
+                    65,
+                    155
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "280": {
+                        "2": {
+                            "name": "ERB1198_Iskan_st_2",
+                            "pci": 379,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "5": {
+                            "name": "ERB1198_Iskan_st_5",
+                            "pci": 379,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 202.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    295
+                ]
+            }
+        },
+        "1199": {
+            "techno": "32T32R",
+            "name": "ERB1199_Khanaqa",
+            "latitude": 36.1925,
+            "longitude": 44.013055,
+            "sectorsB20": [],
+            "sectorsB7": {
+                "azimuth": {
+                    "70": {
+                        "52": {
+                            "name": "ERB1199_Khanaqa_52",
+                            "pci": 497,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1199_Khanaqa_55",
+                            "pci": 497,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1199_Khanaqa_62",
+                            "pci": 496,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1199_Khanaqa_65",
+                            "pci": 496,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1199_Khanaqa_72",
+                            "pci": 123,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1199_Khanaqa_75",
+                            "pci": 123,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1199_Khanaqa_82",
+                            "pci": 236,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1199_Khanaqa_85",
+                            "pci": 236,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "180": {
+                        "53": {
+                            "name": "ERB1199_Khanaqa_53",
+                            "pci": 235,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "56": {
+                            "name": "ERB1199_Khanaqa_56",
+                            "pci": 235,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "63": {
+                            "name": "ERB1199_Khanaqa_63",
+                            "pci": 234,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "66": {
+                            "name": "ERB1199_Khanaqa_66",
+                            "pci": 234,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "73": {
+                            "name": "ERB1199_Khanaqa_73",
+                            "pci": 125,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "76": {
+                            "name": "ERB1199_Khanaqa_76",
+                            "pci": 125,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "83": {
+                            "name": "ERB1199_Khanaqa_83",
+                            "pci": 442,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "86": {
+                            "name": "ERB1199_Khanaqa_86",
+                            "pci": 442,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "320": {
+                        "51": {
+                            "name": "ERB1199_Khanaqa_51",
+                            "pci": 441,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1199_Khanaqa_54",
+                            "pci": 441,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1199_Khanaqa_61",
+                            "pci": 443,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1199_Khanaqa_64",
+                            "pci": 443,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1199_Khanaqa_71",
+                            "pci": 124,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1199_Khanaqa_74",
+                            "pci": 124,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1199_Khanaqa_81",
+                            "pci": 495,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1199_Khanaqa_84",
+                            "pci": 495,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 412.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    45,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    75,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    45
+                ]
+            }
+        },
+        "1399": {
+            "techno": "32T32R",
+            "name": "ERB1399_Qalat",
+            "latitude": 36.1875,
+            "longitude": 44.007777,
+            "sectorsB20": {
+                "azimuth": {
+                    "30": {
+                        "7": {
+                            "name": "ERB1399_Qalat_7",
+                            "pci": 100,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "140": {
+                        "8": {
+                            "name": "ERB1399_Qalat_8",
+                            "pci": 101,
+                            "band": 20,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    65,
+                    45,
+                    65,
+                    185
+                ]
+            },
+            "sectorsB7": {
+                "azimuth": {
+                    "30": {
+                        "51": {
+                            "name": "ERB1399_Qalat_51",
+                            "pci": 473,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "54": {
+                            "name": "ERB1399_Qalat_54",
+                            "pci": 473,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "61": {
+                            "name": "ERB1399_Qalat_61",
+                            "pci": 472,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "64": {
+                            "name": "ERB1399_Qalat_64",
+                            "pci": 472,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "71": {
+                            "name": "ERB1399_Qalat_71",
+                            "pci": 180,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "74": {
+                            "name": "ERB1399_Qalat_74",
+                            "pci": 180,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "81": {
+                            "name": "ERB1399_Qalat_81",
+                            "pci": 179,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "84": {
+                            "name": "ERB1399_Qalat_84",
+                            "pci": 179,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    },
+                    "140": {
+                        "52": {
+                            "name": "ERB1399_Qalat_52",
+                            "pci": 281,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "55": {
+                            "name": "ERB1399_Qalat_55",
+                            "pci": 281,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "62": {
+                            "name": "ERB1399_Qalat_62",
+                            "pci": 279,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "65": {
+                            "name": "ERB1399_Qalat_65",
+                            "pci": 279,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "72": {
+                            "name": "ERB1399_Qalat_72",
+                            "pci": 280,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "75": {
+                            "name": "ERB1399_Qalat_75",
+                            "pci": 280,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "82": {
+                            "name": "ERB1399_Qalat_82",
+                            "pci": 471,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        },
+                        "85": {
+                            "name": "ERB1399_Qalat_85",
+                            "pci": 471,
+                            "band": 7,
+                            "value": "-",
+                            "color": "#c0c1c4"
+                        }
+                    }
+                },
+                "angle": 452.5,
+                "values": [
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    45,
+                    16.25,
+                    16.25,
+                    16.25,
+                    16.25,
+                    185
+                ]
+            }
+        }
+    }
+}
